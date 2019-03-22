@@ -4,8 +4,7 @@
         <div class="collapse-btn" @click="collapseChage">
             <i class="el-icon-menu"></i>
         </div>
-        <div class="logo">智采协同订购云</div>
-        <img src="https://hiisp-image.oss-cn-beijing.aliyuncs.com/EA28349C63E344D488A87A600F8ACCE3" style="height:37px;float: left;margin: 16px 0" alt="">
+        <div class="logo">后台管理系统</div>
         <div class="header-right">
             <div class="header-user-con">
                 <!-- 全屏显示 -->
@@ -126,7 +125,7 @@
     }
     .header .logo{
         float: left;
-        width:200px;
+        width: 250px;
         line-height: 70px;
     }
     .header-right{
