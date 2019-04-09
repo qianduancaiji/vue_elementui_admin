@@ -50,7 +50,6 @@
             return {
                 collapse: false,
                 fullscreen: false,
-                name: 'linxin',
                 message: 2
             }
         },
